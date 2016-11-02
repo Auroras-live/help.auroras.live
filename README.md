@@ -1,2 +1,6 @@
-# help.auroras.live
-Help documents and aurora hunting guides
+# Auroras.live Help
+This repo contains the help and tutorial pages for [Auroras.live](http://auroras.live). It'll eventually contain help for the Auroras.live suite of products (website, app, sensor network) but will also include guides and tutorials on camera settings, aurora viewing tips and so forth. If you're after the development documentation, check out [the developer documentation](http://developers.auroras.live) or contribute on our [GitHub repo](http://github.com/Auroras-live/developers.auroras.live)
+
+If you'd like to contribute, please fork this repo and made changes to the gh-pages branch. Create a pull request and we'll review it.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Auroras.live Help Guide</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://auroras.live" property="cc:attributionName" rel="cc:attributionURL">Auroras.live</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/Auroras-live/help.auroras.live" rel="dct:source">http://github.com/Auroras-live/help.auroras.live</a>.
